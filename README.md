@@ -1,6 +1,6 @@
 # Tenzies Game
 
-<p>Roll until all dice are the same. Click each die to hold it at its current value between rolls. Be the winner of the game</p>
+<p>Roll until all dices are the same. Click each die to hold it at its current value between rolls. Be the winner of the game</p>
 
 # Overview
 
